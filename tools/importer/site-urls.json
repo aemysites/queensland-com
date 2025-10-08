@@ -1,0 +1,113 @@
+{
+  "originUrl": "https://www.queensland.com",
+  "aborted": false,
+  "lastCrawled": "https://www.queensland.com/au/en/home",
+  "urls": [
+    {
+      "url": "https://www.queensland.com/au/en/home",
+      "source": "CRAWL",
+      "targetPath": "/au/en/home",
+      "id": "b8b597b1f53b6761c6c817cb1fd518b1e00d441b"
+    },
+    {
+      "url": "https://www.queensland.com/de/de/home",
+      "source": "CRAWL",
+      "targetPath": "/de/de/home",
+      "id": "be1f781f17526d20e30695807f19242e8fd4b68a"
+    },
+    {
+      "url": "https://www.queensland.com/fr/fr/home",
+      "source": "CRAWL",
+      "targetPath": "/fr/fr/home",
+      "id": "d3a9d79f52ec498b1b11e246c1d49465a919263c"
+    },
+    {
+      "url": "https://www.queensland.com/gb/en/home",
+      "source": "CRAWL",
+      "targetPath": "/gb/en/home",
+      "id": "387406e8186b580d22f95964b15426c7e215e96a"
+    },
+    {
+      "url": "https://www.queensland.com/hk/zh/home",
+      "source": "CRAWL",
+      "targetPath": "/hk/zh/home",
+      "id": "480b339c9f97d939a6d1350ed9cdfd2f869e87d7"
+    },
+    {
+      "url": "https://www.queensland.com/in/en/home",
+      "source": "CRAWL",
+      "targetPath": "/in/en/home",
+      "id": "e7e2e04c9b60fbfe4333e7abd6e04894469430fd"
+    },
+    {
+      "url": "https://www.queensland.com/jp/ja/home",
+      "source": "CRAWL",
+      "targetPath": "/jp/ja/home",
+      "id": "9c88dc0f5b24198a529b5d0244aeff9562ad1305"
+    },
+    {
+      "url": "https://www.queensland.com/kr/ko/home",
+      "source": "CRAWL",
+      "targetPath": "/kr/ko/home",
+      "id": "cc64031fa4584efc5496d9a7197a5fe278ee46b5"
+    },
+    {
+      "url": "https://www.queensland.com/nz/en/home",
+      "source": "CRAWL",
+      "targetPath": "/nz/en/home",
+      "id": "e141c158322b855a05870019ad658d37157ebe8d"
+    },
+    {
+      "url": "https://www.queensland.com/sg/en/home",
+      "source": "CRAWL",
+      "targetPath": "/sg/en/home",
+      "id": "4bd3dbfd0f1b231ae6ce407a5086c4438b671fa7"
+    },
+    {
+      "url": "https://www.queensland.com/tw/zh/home",
+      "source": "CRAWL",
+      "targetPath": "/tw/zh/home",
+      "id": "52ab7f30b8553a1156889a9483568b1b0df22646"
+    },
+    {
+      "url": "https://www.queensland.com/us/en/home",
+      "source": "CRAWL",
+      "targetPath": "/us/en/home",
+      "id": "a7d2bbac4c530039cd51613a86e9c2e64c47e63f"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.queensland.com/etc.clientlibs/teq/clientlibs/teq-react/resources/static/fonts/stagsans/StagSans-SemiboldItalic-Web.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    },
+    {
+      "url": "https://www.queensland.com/etc.clientlibs/teq/clientlibs/teq-react/resources/static/fonts/stagsans/StagSans-Book-Web.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    },
+    {
+      "url": "https://www.queensland.com/etc.clientlibs/teq/clientlibs/teq-react/resources/static/fonts/stagsans/StagSans-Semibold-Web.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    },
+    {
+      "url": "https://www.queensland.com/etc.clientlibs/teq/clientlibs/teq-react/resources/static/fonts/stagsans/StagSans-Medium-Web.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    }
+  ],
+  "errorCountMessage": "{\"others\":4}",
+  "error": null
+}
