@@ -1,0 +1,64 @@
+{
+  "templates": [
+    {
+      "name": "\"Travel Destination Showcase\"",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.queensland.com/fr/fr/home",
+          "uuid": "d3a9d79f52ec498b1b11e246c1d49465a919263c"
+        },
+        {
+          "url": "https://www.queensland.com/tw/zh/home",
+          "uuid": "52ab7f30b8553a1156889a9483568b1b0df22646"
+        },
+        {
+          "url": "https://www.queensland.com/hk/zh/home",
+          "uuid": "480b339c9f97d939a6d1350ed9cdfd2f869e87d7"
+        },
+        {
+          "url": "https://www.queensland.com/de/de/home",
+          "uuid": "be1f781f17526d20e30695807f19242e8fd4b68a"
+        },
+        {
+          "url": "https://www.queensland.com/kr/ko/home",
+          "uuid": "cc64031fa4584efc5496d9a7197a5fe278ee46b5"
+        },
+        {
+          "url": "https://www.queensland.com/us/en/home",
+          "uuid": "a7d2bbac4c530039cd51613a86e9c2e64c47e63f"
+        },
+        {
+          "url": "https://www.queensland.com/gb/en/home",
+          "uuid": "387406e8186b580d22f95964b15426c7e215e96a"
+        },
+        {
+          "url": "https://www.queensland.com/in/en/home",
+          "uuid": "e7e2e04c9b60fbfe4333e7abd6e04894469430fd"
+        },
+        {
+          "url": "https://www.queensland.com/sg/en/home",
+          "uuid": "4bd3dbfd0f1b231ae6ce407a5086c4438b671fa7"
+        },
+        {
+          "url": "https://www.queensland.com/nz/en/home",
+          "uuid": "e141c158322b855a05870019ad658d37157ebe8d"
+        },
+        {
+          "url": "https://www.queensland.com/au/en/home",
+          "uuid": "b8b597b1f53b6761c6c817cb1fd518b1e00d441b"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.queensland.com/jp/ja/home",
+          "uuid": "9c88dc0f5b24198a529b5d0244aeff9562ad1305"
+        }
+      ]
+    }
+  ]
+}
